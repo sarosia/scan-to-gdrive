@@ -13,6 +13,7 @@
     "@sarosia/apper": "^1.0.0",
     "@sarosia/datetime": "^1.0.0",
     "@sarosia/once": "^1.0.0",
-    "googleapis": "^107.0.0"
+    "googleapis": "^107.0.0",
+    "jwa": "^2.0.1"
   }
 }
