@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@sarosia/apper": "^1.0.0",
+    "@sarosia/apper": "github:sarosia/apper",
     "@sarosia/datetime": "^1.0.0",
     "@sarosia/once": "^1.0.0",
     "googleapis": "^107.0.0",
