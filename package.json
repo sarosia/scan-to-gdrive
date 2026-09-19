@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "lint": "apper lint",
+    "lint:fix": "apper lint --fix",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
